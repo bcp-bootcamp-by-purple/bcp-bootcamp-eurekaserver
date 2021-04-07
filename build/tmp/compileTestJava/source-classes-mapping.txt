@@ -1,0 +1,2 @@
+com/bcp/bootcamp/eurekaserver/EurekaserverApplicationTests.java
+ com.bcp.bootcamp.eurekaserver.EurekaserverApplicationTests
